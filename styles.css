@@ -310,7 +310,7 @@ margin-left: 60px;
 }
 
 p {
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .destination-grid {
@@ -330,8 +330,128 @@ padding: 50px;
 }
 
 .destination-item {
-    border: 1px solid;
+    border: 3px solid #f2f2f2;
     padding: 16px;
     background-color: white;
 }
+
+.destination-image {
+    object-fit: cover;
+    height: 200px;
+}
+
+.location {
+    padding: 0;
+    gap: 8px;
+    padding-top: 5px;
+
+}
+
+.why-choose-us-heading {
+    font-size: 50px;
     }
+
+    .why-choose-us-paragraph {
+        padding: 20px;
+    font-size: 25px;
+    }
+
+    .reason-container {
+        display: grid; 
+grid-template-columns: repeat(3, 1fr);
+padding-top: 25px;
+
+    }
+
+    .reason {
+        padding: 10px;
+    padding-right: 0px;
+    margin-left: 10px;
+
+    }
+    .reason-green {
+        margin: 5px;
+        margin-right: auto;
+        margin-top: auto;
+        
+    }
+
+    .more-details {
+        margin-left: 120px;
+    padding-top: 50px;
+    }
+
+    .rectangle-1, .rectangle-2 {
+        bottom: 22px;
+    margin-left: -10px;
+    }
+
+    .memorable-trip {
+        margin-top: 100px;
+    }
+
+    .couple-map {
+        margin-left: 550px;
+        width: 50%;
+        margin-top: -280px;
+    }
+
+.memorable-trip-heading {
+    font-size: 50px;
+}
+
+.couple-background {
+    margin-left: 620px;
+    width: 45%;
+    margin-top: -170px;
+}
+
+.trip-documentation-heading {
+    font-size: 50px;
+    margin-top: 100px;
+}
+
+.documentation-video {
+    width: 100%;
+}
+
+.offer-heading {
+    width: 100%;
+    font-size: 50px;
+    margin-top: 100px;
+}
+
+.click-here {
+    position: absolute;
+    margin-left: 800px;
+margin-top: -70px;
+
+}
+
+.footer-travel {
+    font-size: 30px;
+    margin-top: 50px;
+}
+
+.social-icons {
+    margin-left: -40px;
+    margin-top: 30px;
+}
+
+.divider img {
+    margin-top: 50px;
+    width: 100%;
+}
+
+.offer-paragraph {
+    margin: 20px;
+}
+
+.footer-links {
+    font-size: 17px;
+    margin-top: -40px;
+    margin-left: 700px
+
+}
+
+}
