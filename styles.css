@@ -24,10 +24,10 @@
 }
 
 body {
-    margin: 0;
     font-family: "Urbanist", sans-serif;
     line-height: 1.5;
     background-color: var(--white-color);
+    overflow: clip;
 }
 
 .wrapper {
