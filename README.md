@@ -87,7 +87,7 @@ This project is a responsive travel landing page for desktop view. It showcases 
 
 ## Live Demo
 - Checkout the live version of the project here:
- [Demo](https://travel-website-desktop-view-7b0g.onrender.com)
+ [Demo](https://travel-website-desktop-view-08nu.onrender.com)
 
  ## Author
  Name: [Rabia Isah Yusuf]
