@@ -27,7 +27,7 @@ body {
     font-family: "Urbanist", sans-serif;
     line-height: 1.5;
     background-color: var(--white-color);
-    overflow: clip;
+    overflow-x: clip;
 }
 
 .wrapper {
@@ -297,6 +297,10 @@ font-size: 30px;
     line-height: 1em;
 }
 
+.orange-background {
+    bottom: -0.1%;
+}
+
 .hero-image {
     padding: 20px;
     position: revert;
@@ -382,6 +386,7 @@ padding-top: 25px;
     }
 
     .rectangle-1, .rectangle-2 {
+        width: 102%;
         bottom: 22px;
     margin-left: -10px;
     }
@@ -403,7 +408,12 @@ padding-top: 25px;
 .couple-background {
     margin-left: 620px;
     width: 45%;
-    margin-top: -170px;
+    margin-top: -252px;
+}
+
+.blurry-background {
+    top: 4px;
+    margin-left: 0;
 }
 
 .trip-documentation-heading {
@@ -411,7 +421,7 @@ padding-top: 25px;
     margin-top: 100px;
 }
 
-.documentation-video {
+.video-thumbnail {
     width: 100%;
 }
 
