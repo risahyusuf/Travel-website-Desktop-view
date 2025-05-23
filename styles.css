@@ -308,6 +308,7 @@ font-size: 30px;
 }
 
 .destination-heading {
+    text-align: center;
 font-size: 70px;
 margin-left: 60px;
 
@@ -422,6 +423,7 @@ padding-top: 25px;
 }
 
 .video-thumbnail {
+        transform: rotate(180deg);
     width: 100%;
 }
 
